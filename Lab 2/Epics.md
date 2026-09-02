@@ -1,2 +1,2 @@
 # Epics
-![Epics](Epics.png)
+![Epics](images/Epics.png)
